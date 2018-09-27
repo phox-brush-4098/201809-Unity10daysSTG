@@ -1,0 +1,12 @@
+*.vs
+*.vspx
+*.meta
+*.exe
+*.apk
+*.symbols.zip
+UnityPackageManager
+Temp
+Library
+exe_Data
+Debug
+Assets/PostProcessing
